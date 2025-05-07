@@ -12,10 +12,10 @@
 ## 在线访问
 
 你可以通过以下链接访问问答页面：
-https://DrukenOrange.github.io/ Hematopoietic-stem-cell-donation/quiz.html
+https://DrukenOrange.github.io/ H/quiz.html
 
 ## 本地运行
 
 1. 克隆仓库到本地：
 ```bash
-git clone https://github.com/DrukenOrange/ Hematopoietic-stem-cell-donation.git
+git clone https://github.com/DrukenOrange/ H.git
